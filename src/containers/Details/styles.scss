@@ -1,0 +1,22 @@
+.details{
+  background-color: #282828;
+  min-height: 100vh;
+  img {
+    max-width: 200px;
+    float: left;
+    margin-right: 40px;
+  }
+}
+
+
+.details__container{
+  padding: 80px;
+  color: white;
+  font-size: 2em;
+
+}
+
+
+.details__infos{
+  h1 { margin: 5px;}
+}
